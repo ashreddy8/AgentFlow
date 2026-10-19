@@ -1,0 +1,11 @@
+ticket_id,customer,subject,description
+TKT-1001,Avery,Double charged for order,"I was double charged for order 2031 and need a refund immediately."
+TKT-1002,Riley,Password reset not working,"My password reset link gives an error and I cannot access my account."
+TKT-1003,Jordan,Delivery delay,"My parcel delivery is late and tracking shows no update for five days."
+TKT-1004,Sam,App crashes on checkout,"The app crashes whenever I submit payment on my phone."
+TKT-1005,Alex,Damaged headphones,"My product arrived damaged. Please explain how to return the item."
+TKT-1006,Taylor,Suspicious transaction,"An unauthorized payment appeared on my account. I suspect fraud."
+TKT-1007,Morgan,Question about store hours,"Could you tell me your normal operating hours?"
+TKT-1008,Casey,Package tracking,"Please help me find the tracking number for my shipment."
+TKT-1009,Drew,Invoice missing,"The invoice for last month's billing is not available."
+TKT-1010,Jamie,Help,"Issue."
